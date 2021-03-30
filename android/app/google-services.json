@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250827615500",
+    "firebase_url": "https://the-bucket-list-d6a11.firebaseio.com",
+    "project_id": "the-bucket-list-d6a11",
+    "storage_bucket": "the-bucket-list-d6a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250827615500:android:f222176177a46f06176d29",
+        "android_client_info": {
+          "package_name": "thebucketlist.the_bucket_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250827615500-1eoai4ksd4d3ltn2l7e60kcrggr2jolf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-n5xDftSI65g6YNY2RgOIbNffYTndNuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250827615500-1eoai4ksd4d3ltn2l7e60kcrggr2jolf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
